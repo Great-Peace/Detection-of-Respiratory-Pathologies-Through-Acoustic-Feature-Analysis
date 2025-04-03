@@ -1,0 +1,36 @@
+{
+  "CNN": {
+    "v1": {
+      "path": "CNN/v1",
+      "config": "config.yaml",
+      "metrics": "metrics.json",
+      "model_file": "model.pt",
+      "created": "2025-04-02T23:32:03.476382",
+      "notes": ""
+    },
+    "v200": {
+      "path": "CNN/v200",
+      "config": "config.yaml",
+      "metrics": "metrics.json",
+      "model_file": "model.pt",
+      "created": "2025-04-02T23:50:17.464930",
+      "notes": ""
+    },
+    "v201": {
+      "path": "CNN/v201",
+      "config": "config.yaml",
+      "metrics": "metrics.json",
+      "model_file": "model.pt",
+      "created": "2025-04-02T23:57:12.402909",
+      "notes": ""
+    },
+    "v202": {
+      "path": "CNN/v202",
+      "config": "config.yaml",
+      "metrics": "metrics.json",
+      "model_file": "model.pt",
+      "created": "2025-04-03T00:00:47.812582",
+      "notes": ""
+    }
+  }
+}

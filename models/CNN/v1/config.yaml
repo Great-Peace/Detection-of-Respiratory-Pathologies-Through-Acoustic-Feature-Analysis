@@ -1,0 +1,6 @@
+architecture: CNNClassifier
+batch_size: 64
+epochs: 2
+lr: 0.001
+model_name: CNN
+version: 1
